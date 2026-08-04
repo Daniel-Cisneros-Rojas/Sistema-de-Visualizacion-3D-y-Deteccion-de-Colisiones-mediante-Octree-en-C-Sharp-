@@ -50,11 +50,11 @@ Se actualiza la visualización en tiempo real.
 
 Cuando la esfera abandona la región afectada, ésta recupera automáticamente su color predeterminado
 
-<img width="520" height="458" alt="image" src="https://github.com/user-attachments/assets/e3398c60-4817-4da2-bdaa-b7970a249ca6" />
+<img width="520" height="471" alt="image" src="https://github.com/user-attachments/assets/e3398c60-4817-4da2-bdaa-b7970a249ca6" />
 
 
-<img width="1247" height="939" alt="image" src="https://github.com/user-attachments/assets/d11aa14e-edd3-4726-957e-83e2e5fce6f7" />
+<img width="520" height="471" alt="image" src="https://github.com/user-attachments/assets/d11aa14e-edd3-4726-957e-83e2e5fce6f7" />
 
-<img width="451" height="471" alt="image" src="https://github.com/user-attachments/assets/ea491ca1-e63c-4ae3-a587-d1f2e4f091ee" />
+<img width="520" height="471" alt="image" src="https://github.com/user-attachments/assets/ea491ca1-e63c-4ae3-a587-d1f2e4f091ee" />
 
 
